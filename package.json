@@ -1,0 +1,1 @@
+{"description":"make.fun entry: Unsent: The Micro-Confession Sprint","license":"MIT","name":"joke4-unsent-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
