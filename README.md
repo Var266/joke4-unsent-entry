@@ -18,8 +18,8 @@ node main.ts
 ## Entry
 
 ```text
-To: Dad
-I sold the watch you gave me when I graduated to pay March rent, and I have worn the cheap replacement every Sunday since so you would not notice.
+To: Mum
+i don't call every sunday because i miss you. dad made me promise in march not to tell you about the cancer, so i call to hear if you know yet
 ```
 
-154 characters total, message part 146 characters (limits: 260 total, 200 message).
+150 characters total, message part 142 characters (limits: 260 total, 200 message).

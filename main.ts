@@ -1,12 +1,12 @@
-// Unsent: The Micro-Confession Sprint — make.fun entry.
-// Writes the winning two-part micro-confession to /output/entry.txt:
+// Unsent: The Micro-Confession Sprint — make.fun entry (re-entry, 26 Nov 2026).
+// Writes the two-part micro-confession to /output/entry.txt:
 // a "To:" line plus the unsent message itself, one line, no explanation.
 // Gate: whole entry 1-260 characters, message part at most 200 characters.
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const toLine = "To: Dad";
+const toLine = "To: Mum";
 const message =
-  "I sold the watch you gave me when I graduated to pay March rent, and I have worn the cheap replacement every Sunday since so you would not notice.";
+  "i don't call every sunday because i miss you. dad made me promise in march not to tell you about the cancer, so i call to hear if you know yet";
 
 const entry = `${toLine}\n${message}`;
 
